@@ -1,4 +1,4 @@
-# Ola 👋<br><br> Me chamo Vitor Palheta!
+# Olá 👋<br> Me chamo Vitor Palheta!
 
 ### 💻 Sobre mim
 Trabalho atualmente em uma empresa como suporte técnico a clientes que possuem nossos sistemas de automação. Estou buscando uma vaga como desenvolvedor Front-end júnior e pratico o aprendizado contínuo em desenvolvimento de sistemas Web, com foco em React. Meu objetivo é no futuro próximo me tornar desenvolvedor Fullstack.
@@ -22,6 +22,9 @@ Estudo atualmente na 🚀 <a href="https://www.rocketseat.com.br">Rocketseat</a>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpalheta&locale=pt-br&layout=compact&theme=aura)
   
@@ -44,6 +47,22 @@ Estudo atualmente na 🚀 <a href="https://www.rocketseat.com.br">Rocketseat</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorpalheta&locale=pt-br&show_icons=true&theme=aura)
 
   </div>
+
+## 🔍 Minhas redes
+
+<a href="https://www.linkedin.com/in/vitorpalheta">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://instagram.com/vitorpalheta">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
+## 🎮 Minhas plataformas de jogos
+
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
+ 
+
 
 <!--
 **vitorpalheta/vitorpalheta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
