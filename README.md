@@ -3,7 +3,7 @@
 ### 💻 Sobre mim
 Trabalho atualmente em uma empresa como suporte técnico a clientes que possuem nossos sistemas de automação. Estou buscando uma vaga como desenvolvedor Front-end júnior e pratico o aprendizado contínuo em desenvolvimento de sistemas Web, com foco em React. Meu objetivo é no futuro próximo me tornar desenvolvedor Fullstack.
 
-Estudo atualmente na 🚀 <a href="https://www.rocketseat.com.br">Rocketseat</a> para chegar no meu objetivo
+Estudo atualmente na 🚀 <a href="https://www.rocketseat.com.br">Rocketseat</a> para chegar no meu objetivo.
 
 
 
